@@ -1,0 +1,11 @@
+Flask
+langchain
+gpt4all
+faiss-cpu
+PyMuPDF
+sentence-transformers
+transformers
+huggingface_hub
+tqdm
+requests
+numpy
